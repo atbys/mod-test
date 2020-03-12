@@ -1,4 +1,4 @@
-module github.com/atbys/modtest
+module github.com/atbys/mod-test
 
 go 1.13
 
